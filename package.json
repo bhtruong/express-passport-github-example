@@ -1,0 +1,24 @@
+{
+  "name": "express-passport-github-example",
+  "version": "0.0.0",
+  "description": "Express 4.x app using Passport for authentication with GitHub.",
+  "keywords": [
+    "example",
+    "express",
+    "passport"
+  ],
+  "author": "Jared Hanson",
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bhtruong/express-passport-github-example.git"
+  },
+  "dependencies": {
+    "connect-ensure-login": "^0.1.1",
+    "ejs": "^2.3.3",
+    "express": "^4.13.1",
+    "express-session": "^1.11.3",
+    "passport": "^0.2.2",
+    "passport-github": "^1.0.0"
+  }
+}
